@@ -1,13 +1,13 @@
 //
-//  Tests_macOSLaunchTests.swift
-//  Tests macOS
+//  SwiftUI_MVUITestsLaunchTests.swift
+//  SwiftUI-MVUITests
 //
 //  Created by Nrmeen Tomoum on 07/06/2022.
 //
 
 import XCTest
 
-class Tests_macOSLaunchTests: XCTestCase {
+class SwiftUI_MVUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

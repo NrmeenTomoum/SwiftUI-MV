@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  SwiftUI-MV
 //
 //  Created by Nrmeen Tomoum on 07/06/2022.
 //

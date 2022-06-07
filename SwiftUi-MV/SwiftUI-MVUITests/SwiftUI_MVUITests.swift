@@ -1,13 +1,13 @@
 //
-//  Tests_macOS.swift
-//  Tests macOS
+//  SwiftUI_MVUITests.swift
+//  SwiftUI-MVUITests
 //
 //  Created by Nrmeen Tomoum on 07/06/2022.
 //
 
 import XCTest
 
-class Tests_macOS: XCTestCase {
+class SwiftUI_MVUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
