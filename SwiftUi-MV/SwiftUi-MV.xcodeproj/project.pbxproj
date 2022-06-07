@@ -94,6 +94,9 @@
 		68FAF3B8284F348300224AA9 /* SwiftUI-MV */ = {
 			isa = PBXGroup;
 			children = (
+				68FAF3E5284F34F000224AA9 /* Dependency */,
+				68FAF3E4284F34E800224AA9 /* View */,
+				68FAF3E3284F34E100224AA9 /* Model */,
 				68FAF3B9284F348300224AA9 /* SwiftUI_MVApp.swift */,
 				68FAF3BB284F348300224AA9 /* ContentView.swift */,
 				68FAF3BD284F348500224AA9 /* Assets.xcassets */,
@@ -125,6 +128,27 @@
 				68FAF3D6284F348500224AA9 /* SwiftUI_MVUITestsLaunchTests.swift */,
 			);
 			path = "SwiftUI-MVUITests";
+			sourceTree = "<group>";
+		};
+		68FAF3E3284F34E100224AA9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		68FAF3E4284F34E800224AA9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		68FAF3E5284F34F000224AA9 /* Dependency */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Dependency;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
